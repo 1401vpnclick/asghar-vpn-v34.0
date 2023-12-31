@@ -1,1 +1,1 @@
-{"title":"کاربر گرامی ","message":"هم اکنون برنامه متوقف شده است تا ساعاتی دیگر متوانید از کانال ما نسخه مود شده را دانلود کنید ⚡️❤️","dismissable":false,"dismissTxt":"رد","okTxt":"بروزرسانی از تلگرام","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
+.
